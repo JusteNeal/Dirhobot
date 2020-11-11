@@ -8,7 +8,7 @@ Client.on("ready" , () => {
     }
 );
 
-Client.login(Nzc1NDAwOTEyODEzNTU1NzIy.X6lyXw.vitodT3Nag47zYqvsXxTnIkaiW0);
+Client.login("Nzc1NDAwOTEyODEzNTU1NzIy.X6lyXw.vitodT3Nag47zYqvsXxTnIkaiW0");
 
 
 Client.on("guildMemberadd", member =>{
