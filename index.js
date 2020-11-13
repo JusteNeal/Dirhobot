@@ -10,7 +10,7 @@ Client.on("ready" , () => {
     }
 );
 
-Client.login("Nzc1NDAwOTEyODEzNTU1NzIy.X6lyXw.kpyDDAo1OJyMSUPkUyqkSl2oF3E");
+Client.login("TOKEN");
 
 Client.on ("message", message => {
 
