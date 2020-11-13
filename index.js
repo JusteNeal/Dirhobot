@@ -10,7 +10,7 @@ Client.on("ready" , () => {
     }
 );
 
-Client.login("porcess.env.TOKEN");
+Client.login("Nzc1NDAwOTEyODEzNTU1NzIy.X6lyXw.kpyDDAo1OJyMSUPkUyqkSl2oF3E");
 
 Client.on ("message", message => {
 
